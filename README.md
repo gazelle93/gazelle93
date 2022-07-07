@@ -7,7 +7,7 @@ My name is <a href="http://www.linkedin.com/in/mingyou-sung-0449a0184/">Mingyou 
 - Bachelor's degree of Computer Engineering at <a href="http://en.hongik.ac.kr/index.do/">Hongik University</a>
 
 ## Research Experience ⭐
-Relation Extraction Tasks
+Relation Extraction Tasks (a href="http://spectrum.library.concordia.ca/id/eprint/990412/">Studies on diverse input representations and classifiers on relation extraction datasets</a>)
 - SemEval-2010 Task 8 (Multi-Way Classification of Semantic Relations Between Pairs of Nominals)
 - TACRED (Text Analysis Conference Relation Extraction Dataset)
 - Re-TACRED (Revised Text Analysis Conference Relation Extraction Dataset)
