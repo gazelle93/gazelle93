@@ -3,8 +3,8 @@
 My name is <a href="http://www.linkedin.com/in/mingyou-sung-0449a0184/">Mingyou Sung</a>. I'm an NLP researcher & ML developer. Here's some info about me!
 
 ## Education 🏫
-Master's degree of Computer Science at <a href="http://www.concordia.ca/">Concordia University</a>
-Bachelor's degree of Computer Engineering at <a href="http://en.hongik.ac.kr/index.do/">Hongik University</a>
+- Master's degree of Computer Science at <a href="http://www.concordia.ca/">Concordia University</a>
+- Bachelor's degree of Computer Engineering at <a href="http://en.hongik.ac.kr/index.do/">Hongik University</a>
 
 ## Research Experience ⭐
 Relation Extraction Tasks
