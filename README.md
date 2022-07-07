@@ -13,12 +13,12 @@ Relation Extraction Tasks (<a href="http://spectrum.library.concordia.ca/id/epri
 - Re-TACRED (Revised Text Analysis Conference Relation Extraction Dataset)
 - Biocreative VII Track 1 (Text mining drug and chemical-protein interactions (DrugProt))
 
-Counterfactual Detection (<a href="https://aclanthology.org/2020.semeval-1.54/">CLaC at SemEval-2020 Task 5: Muli-task Stacked Bi-LSTMs</a>)
+Counterfactual Detection (<a href="http://aclanthology.org/2020.semeval-1.54/">CLaC at SemEval-2020 Task 5: Muli-task Stacked Bi-LSTMs</a>)
 - SemEval-2020 Task 5 (Modelling Causal Reasoning in Language: Detecting Counterfactuals) - Subtask 2
 (Detecting the span of antecedents and consequents)
 
 ## Project Experience ☕
-Automatic Similar Product Categorization System
+<a href="http://iml.hongik.ac.kr/projects.html">Product Category Classification & Similar Product Identification</a>
 - Building automatic categorization system using title and description of e-commerce products cooperate
 with KIES (Korea Information Engineering Services) using Word2vec and TF-IDF
 
