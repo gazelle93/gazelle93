@@ -6,9 +6,6 @@ My name is <a href="http://www.linkedin.com/in/mingyou-sung-0449a0184/">Mingyou 
 Master's degree of Computer Science at <a href="http://www.concordia.ca/">Concordia University</a>
 Bachelor's degree of Computer Engineering at <a href="http://en.hongik.ac.kr/index.do/">Hongik University</a>
 
-## Publication 📚
-<a href="https://aclanthology.org/2020.semeval-1.54/">CLaC at SemEval-2020 Task 5: Muli-task Stacked Bi-LSTMs</a>
-
 ## Research Experience ⭐
 Relation Extraction Tasks
 - SemEval-2010 Task 8 (Multi-Way Classification of Semantic Relations Between Pairs of Nominals)
@@ -16,7 +13,7 @@ Relation Extraction Tasks
 - Re-TACRED (Revised Text Analysis Conference Relation Extraction Dataset)
 - Biocreative VII Track 1 (Text mining drug and chemical-protein interactions (DrugProt))
 
-Counterfactual Detection
+Counterfactual Detection (<a href="https://aclanthology.org/2020.semeval-1.54/">CLaC at SemEval-2020 Task 5: Muli-task Stacked Bi-LSTMs</a>)
 - SemEval-2020 Task 5 (Modelling Causal Reasoning in Language: Detecting Counterfactuals) - Subtask 2
 (Detecting the span of antecedents and consequents)
 
@@ -37,17 +34,4 @@ Teaching Assistant
 information retrieval techniques such as BM25, TF-IDF
 
 
-<!--
-**gazelle93/gazelle93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
