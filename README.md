@@ -4,7 +4,7 @@ My name is <a href="http://www.linkedin.com/in/mingyou-sung-0449a0184/">Mingyou 
 
 Here's some info about me! 🧾
 - Languages: Korean (Native), English (Fluent)
-- Programming Languages & frameworks: Python, PyTorch, HuggingFace, Scikit-Learn, NLTK, Regular Expression, GATE (General Architecture for Text Engineering), Unix/Linux, Git, GCP, LATEX
+- Programming Languages & frameworks: Python, PyTorch, HuggingFace, Scikit-Learn, NLTK, Regular Expression, GATE (General Architecture for Text Engineering), Unix/Linux, Git, GCP, Latex
 
 ## Education 🏫
 - Master's degree of Computer Science at <a href="http://www.concordia.ca/">Concordia University</a>
