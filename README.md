@@ -2,9 +2,9 @@
 
 My name is <a href="http://www.linkedin.com/in/mingyou-sung-0449a0184/">Mingyou Sung</a>. I'm an NLP researcher & ML developer at Montreal, Quebec, Canada.
 
-Here's some info about me! 🧾
+Here's some info about me! 
 - Languages: Korean (Native), English (Fluent)
-- Programming Languages & frameworks: Python, PyTorch, HuggingFace, Scikit-Learn, NLTK, Regular Expression, GATE (General Architecture for Text Engineering), Unix/Linux, Git, GCP, Latex
+- Programming Languages & frameworks: Python, PyTorch, HuggingFace, Scikit-Learn, NLTK, Regular Expression, GATE (General Architecture for Text Engineering), Unix/Linux, Git, GCP, Latex, AWS (Sagemaker, S3, EC2)
 
 ## Education 🏫
 - Master's degree of Computer Science at <a href="http://www.concordia.ca/">Concordia University</a>
