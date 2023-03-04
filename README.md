@@ -11,8 +11,8 @@ Here's some info about me!
 - Bachelor's degree of Computer Engineering at <a href="http://en.hongik.ac.kr/index.do/">Hongik University</a>
 
 ## Research Experience ⭐
-Relation Extraction Tasks (<a href="http://spectrum.library.concordia.ca/id/eprint/990412/">Studies on diverse input representations and classifiers on relation extraction datasets</a>)
-- SemEval-2010 Task 8 (Multi-Way Classification of Semantic Relations Between Pairs of Nominals)
+- Relation Extraction Tasks (<a href="http://spectrum.library.concordia.ca/id/eprint/990412/">Studies on diverse input representations and classifiers on relation extraction datasets</a>)
+-- SemEval-2010 Task 8 (Multi-Way Classification of Semantic Relations Between Pairs of Nominals)
 - TACRED (Text Analysis Conference Relation Extraction Dataset)
 - Re-TACRED (Revised Text Analysis Conference Relation Extraction Dataset)
 - Biocreative VII Track 1 (Text mining drug and chemical-protein interactions (DrugProt))
