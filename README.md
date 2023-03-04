@@ -17,7 +17,7 @@ Here's some info about me!
   - Re-TACRED (Revised Text Analysis Conference Relation Extraction Dataset)
   - Biocreative VII Track 1 (Text mining drug and chemical-protein interactions (DrugProt))
 
--Counterfactual Detection (<a href="http://aclanthology.org/2020.semeval-1.54/">CLaC at SemEval-2020 Task 5: Muli-task Stacked Bi-LSTMs</a>)
+- Counterfactual Detection (<a href="http://aclanthology.org/2020.semeval-1.54/">CLaC at SemEval-2020 Task 5: Muli-task Stacked Bi-LSTMs</a>)
   - SemEval-2020 Task 5 (Modelling Causal Reasoning in Language: Detecting Counterfactuals) - Subtask 2
 (Detecting the span of antecedents and consequents)
 
