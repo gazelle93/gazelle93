@@ -3,14 +3,17 @@
 My name is <a href="http://www.linkedin.com/in/mingyou-sung-0449a0184/">Mingyou Sung</a>. I'm an NLP researcher & ML developer in Montreal, Quebec, Canada.
 
 Here's some info about me! 
-- Languages: Korean (Native), English (Fluent)
-- Programming Languages & frameworks: Python, PyTorch, HuggingFace, Scikit-Learn, NLTK, Regular Expression, GATE (General Architecture for Text Engineering), Unix/Linux, Git, GCP, Latex, AWS (Sagemaker, S3, EC2)
+- Languages: English (Professional Working Proficiency), Korean (Native)
+- Programming Languages & frameworks: Python, PyTorch, HuggingFace, Scikit-Learn, NLTK, Regular Expression, GATE (General Architecture for Text Engineering), LLM, RAG, Unix/Linux, Git, GCP, Latex, AWS (Sagemaker, S3, EC2)
 
 ## Education 🏫
 - Master's degree of Computer Science at <a href="http://www.concordia.ca/">Concordia University</a>
 - Bachelor's degree of Computer Engineering at <a href="http://en.hongik.ac.kr/index.do/">Hongik University</a>
 
 ## Research Experience ⭐
+- Assessing LLMs' Ability to Navigate Cultural Knowledge Conflicts (Conference on Computational Cultural Context in NLP (C3NLP), 2024 - Non-archival)
+  - Developed the QARV benchmark, a dataset of 671 culturally sensitive questions, to evaluate large language models' ability to navigate knowledge conflicts between U.S. and Korean perspectives.
+ 
 - Relation Extraction Tasks (<a href="http://spectrum.library.concordia.ca/id/eprint/990412/">Studies on diverse input representations and classifiers on relation extraction datasets</a>)
   - SemEval-2010 Task 8 (Multi-Way Classification of Semantic Relations Between Pairs of Nominals)
   - TACRED (Text Analysis Conference Relation Extraction Dataset)
