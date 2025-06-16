@@ -26,11 +26,11 @@ Here's some info about me!
 
 ## Project Experience ☕
 - <a href="http://iml.hongik.ac.kr/projects.html">Product Category Classification & Similar Product Identification</a>
-  - Building an automatic categorization system using the title and description of e-commerce products cooperation with KIES (Korea Information Engineering Services) using Word2vec and TF-IDF
+  - Built an automatic categorization system using the title and description of e-commerce products cooperation with KIES (Korea Information Engineering Services) using Word2vec and TF-IDF
 
 - Offering Wine Information and Recommendations on Android and Web Applications
   - Final year project at Hongik University (Won the excellent prize and was selected as a creditable work)
-  - Developing an Android and Web application that offers wine label recognition using CNN, wine
+  - Developed an Android and Web application that offers wine label recognition using CNN, wine
 recommendation via chatbot using Regex, and a function to search for various information about wines using AWS
 
 ## Addiational Activities 📝
