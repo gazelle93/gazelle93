@@ -8,7 +8,7 @@ Here's some info about me!
 
 ## Education 🏫
 - Master's degree of Computer Science at <a href="http://www.concordia.ca/">Concordia University</a>
-- Bachelor's degree of Computer Engineering at <a href="http://en.hongik.ac.kr/index.do/">Hongik University</a>
+- Bachelor's degree of Computer Engineering at <a href="https://www.hongik.ac.kr/en/index.do">Hongik University</a>
 
 ## Research Experience ⭐
 - Assessing LLMs' Ability to Navigate Cultural Knowledge Conflicts (Conference on Computational Cultural Context in NLP (C3NLP), 2024 - Non-archival)
