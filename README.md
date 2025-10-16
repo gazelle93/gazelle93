@@ -1,6 +1,6 @@
 # Hi there 👋 Welcome to my page!
 
-My name is <a href="http://www.linkedin.com/in/mingyou-sung-0449a0184/">Mingyou Sung</a>. I'm an NLP researcher & ML developer in Montreal, Quebec, Canada.
+My name is <a href="http://www.linkedin.com/in/mingyou-sung-0449a0184/">Mingyou Sung</a>. I'm an AI researcher (NLP Specialist) in Montreal, Quebec, Canada.
 
 Here's some info about me! 
 - Languages: English (Professional Working Proficiency), Korean (Native)
