@@ -4,7 +4,7 @@ My name is <a href="http://www.linkedin.com/in/mingyou-sung-0449a0184/">Mingyou 
 
 Here's some info about me! 
 - Languages: English (Professional Working Proficiency), Korean (Native)
-- Programming Languages & frameworks: Python, PyTorch, HuggingFace, Scikit-Learn, NLTK, Regular Expression, GATE (General Architecture for Text Engineering), LLM, RAG, Information Retrieval, Unix/Linux, Git, GCP, AWS (Sagemaker, S3, EC2)
+- Programming Languages & frameworks: Python, PyTorch, HuggingFace, Scikit-Learn, NLTK, Regular Expression, GATE (General Architecture for Text Engineering), LLM, RAG, Information Retrieval, Unix/Linux, Git, GCP, AWS (Sagemaker, Lambda, ECS, ECR, S3, DynamoDB, CloudWatch)
 
 ## Education 🏫
 - Master's degree of Computer Science at <a href="http://www.concordia.ca/">Concordia University</a>
