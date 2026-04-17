@@ -1,10 +1,10 @@
 # Hi there 👋 Welcome to my page!
 
-My name is <a href="http://www.linkedin.com/in/mingyou-sung-0449a0184/">Mingyou Sung</a>. I'm an AI researcher (NLP Specialist) in Montreal, Quebec, Canada.
+My name is <a href="http://www.linkedin.com/in/mingyou-sung-0449a0184/">Mingyou Sung</a>. I'm an AI Engineer (NLP Specialist) in Montreal, Quebec, Canada.
 
 Here's some info about me! 
 - Languages: English (Professional Working Proficiency), Korean (Native)
-- Programming Languages & frameworks: Python, PyTorch, HuggingFace, Scikit-Learn, NLTK, Regular Expression, GATE (General Architecture for Text Engineering), LLM, RAG, Information Retrieval, Unix/Linux, Git, GCP, AWS (Sagemaker, Lambda, ECS, ECR, S3, DynamoDB, CloudWatch)
+- Programming Languages & frameworks: Python, PyTorch, HuggingFace, Scikit-Learn, NLTK, Regular Expression, GATE (General Architecture for Text Engineering), LLM, RAG, Information Retrieval, Unix/Linux, Git, GCP, AWS (Sagemaker, Lambda, ECS, ECR, S3, DynamoDB, Athena, Glue, CloudWatch)
 
 ## Education 🏫
 - Master's degree of Computer Science at <a href="http://www.concordia.ca/">Concordia University</a>
