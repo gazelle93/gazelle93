@@ -1,43 +1,42 @@
-# Hi there 👋 Welcome to my page!
+### Hi, I'm Mingyou 👋
 
-My name is <a href="http://www.linkedin.com/in/mingyou-sung-0449a0184/">Mingyou Sung</a>. I'm an AI Engineer (NLP Specialist) in Montreal, Quebec, Canada.
+I build AI systems from the problem statement to production and beyond.
 
-Here's some info about me! 
-- Languages: English (Professional Working Proficiency), Korean (Native)
-- Programming Languages & frameworks: Python, PyTorch, HuggingFace, Scikit-Learn, NLTK, Regular Expression, GATE (General Architecture for Text Engineering), LLM, RAG, Information Retrieval, Unix/Linux, Git, GCP, AWS (Sagemaker, Lambda, ECS, ECR, S3, DynamoDB, Athena, Glue, CloudWatch)
+Getting the model to work is rarely the hard part. Defining the right problem
+is harder, and keeping the system trustworthy once real users depend on it is
+harder still.
 
-## Education 🏫
-- Master's degree of Computer Science at <a href="http://www.concordia.ca/">Concordia University</a>
-- Bachelor's degree of Computer Engineering at <a href="https://www.hongik.ac.kr/en/index.do">Hongik University</a>
+Currently an AI engineer at [Potloc](https://potloc.com) in Montreal.
+Before that, Lead NLP Engineer at [Valital](https://valital.com), running the
+NLP roadmap for AML and KYC and setting up the evaluation and monitoring
+practice the team ran on.
 
-## Research Experience ⭐
-- Assessing LLMs' Ability to Navigate Cultural Knowledge Conflicts (Conference on Computational Cultural Context in NLP (C3NLP), 2024 - Non-archival)
-  - Developed the QARV benchmark, a dataset of 671 culturally sensitive questions, to evaluate large language models' ability to navigate knowledge conflicts between U.S. and Korean perspectives.
- 
-- Relation Extraction Tasks (<a href="http://spectrum.library.concordia.ca/id/eprint/990412/">Studies on diverse input representations and classifiers on relation extraction datasets</a>)
-  - SemEval-2010 Task 8 (Multi-Way Classification of Semantic Relations Between Pairs of Nominals)
-  - TACRED (Text Analysis Conference Relation Extraction Dataset)
-  - Re-TACRED (Revised Text Analysis Conference Relation Extraction Dataset)
-  - Biocreative VII Track 1 (Text mining drug and chemical-protein interactions (DrugProt))
+## Things I do in public
 
-- Counterfactual Detection (<a href="http://aclanthology.org/2020.semeval-1.54/">CLaC at SemEval-2020 Task 5: Muli-task Stacked Bi-LSTMs</a>)
-  - SemEval-2020 Task 5 (Modelling Causal Reasoning in Language: Detecting Counterfactuals) - Subtask 2
-(Detecting the span of antecedents and consequents)
+**[decision-models-under-pressure](https://github.com/gazelle93/decision-models-under-pressure)**
+An independent benchmark of seven decision models under three production
+stresses: growing candidate lists, shuffled option order, and harder
+distractors. Pre-registered before the first API call, with the dataset and
+per-call ledger published. Shuffling the answer options alone changed 14.6% of
+one model's decisions, and a fixed order does not fix it. The study also
+reversed the conclusion I started with, and the repo keeps the original
+reasoning rather than quietly rewriting it.
 
-## Project Experience ☕
-- <a href="http://iml.hongik.ac.kr/projects.html">Product Category Classification & Similar Product Identification</a>
-  - Built an automatic categorization system using the title and description of e-commerce products cooperation with KIES (Korea Information Engineering Services) using Word2vec and TF-IDF
+**Assessing LLMs' Ability to Navigate Cultural Knowledge Conflicts**
+(C3NLP 2024, non-archival). QARV, a 671-question benchmark for how LLMs handle
+conflicts between U.S. and Korean perspectives.
 
-- Offering Wine Information and Recommendations on Android and Web Applications
-  - Final year project at Hongik University (Won the excellent prize and was selected as a creditable work)
-  - Developed an Android and Web application that offers wine label recognition using CNN, wine
-recommendation via chatbot using Regex, and a function to search for various information about wines using AWS
+**[CLaC at SemEval-2020 Task 5](http://aclanthology.org/2020.semeval-1.54/)**
+Multi-task stacked Bi-LSTMs for detecting the span of antecedents and
+consequents in counterfactual statements.
 
-## Addiational Activities 📝
-Teaching Assistant
-- Course: COMP 479 - Information Retrieval and Web Search
-- Tutored undergrads to minimize the gap between the knowledge and implementation on several
-information retrieval techniques such as BM25, TF-IDF
+## Education
 
+- MSc Computer Science, [Concordia University](http://www.concordia.ca/).
+  [Thesis](http://spectrum.library.concordia.ca/id/eprint/990412/) on input
+  representations and classifiers for relation extraction, across
+  SemEval-2010 Task 8, TACRED, Re-TACRED, and BioCreative VII (DrugProt).
+- BEng Computer Engineering, [Hongik University](https://www.hongik.ac.kr/en/index.do)
 
-
+English and Korean. Reachable on
+[LinkedIn](http://www.linkedin.com/in/mingyou-sung-0449a0184/)
