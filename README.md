@@ -1,4 +1,4 @@
-### Hi, I'm Mingyou 👋
+# Hi, I'm Mingyou 👋
 
 I build AI systems from the problem statement to production and beyond.
 
