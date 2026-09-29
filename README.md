@@ -13,7 +13,7 @@ practice the team ran on.
 
 ## Things I do in public
 
-**[decision-models-under-pressure](https://github.com/gazelle93/decision-models-under-pressure)**
+- **[decision-models-under-pressure](https://github.com/gazelle93/decision-models-under-pressure)**
 An independent benchmark of seven decision models under three production
 stresses: growing candidate lists, shuffled option order, and harder
 distractors. Pre-registered before the first API call, with the dataset and
@@ -22,11 +22,11 @@ one model's decisions, and a fixed order does not fix it. The study also
 reversed the conclusion I started with, and the repo keeps the original
 reasoning rather than quietly rewriting it.
 
-**Assessing LLMs' Ability to Navigate Cultural Knowledge Conflicts**
+- **Assessing LLMs' Ability to Navigate Cultural Knowledge Conflicts**
 (C3NLP 2024, non-archival). QARV, a 671-question benchmark for how LLMs handle
 conflicts between U.S. and Korean perspectives.
 
-**[CLaC at SemEval-2020 Task 5](http://aclanthology.org/2020.semeval-1.54/)**
+- **[CLaC at SemEval-2020 Task 5](http://aclanthology.org/2020.semeval-1.54/)**
 Multi-task stacked Bi-LSTMs for detecting the span of antecedents and
 consequents in counterfactual statements.
 
